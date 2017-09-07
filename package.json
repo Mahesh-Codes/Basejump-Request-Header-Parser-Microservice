@@ -1,0 +1,25 @@
+{
+	"name": "request-header-parser-by-mahesh",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "4.4.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Mahesh-Codes/request-header-parser-by-mahesh"
+	
+},
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "FreeCodeCamp"
+  ]
+}
