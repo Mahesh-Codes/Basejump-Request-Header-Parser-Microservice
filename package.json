@@ -1,5 +1,5 @@
 {
-	"name": "url-shortener-microservice-mahesh",
+	"name": "basejump-request-header-parser-Microservice",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,16 +10,9 @@
 	"engines": {
 		"node": "4.4.5"
 	},
-   "dependencies": {
-    "mongodb": "^2.2.30",
-    "mongoose": ">= 3.5.6",
-    "body-parser": "~1.4.3",
-    "cors": "^2.5.2",
-    "express": "^4.15.3"
-  },
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Mahesh-Codes/url Shortner-microservice"
+		"url": "https://github.com/Mahesh-Codes/basejump-request-header-parser-Microservice"
 	
 },
   "license": "MIT",
@@ -27,7 +20,6 @@
     "node",
     "glitch",
     "express",
-    "smalurl",
     "FreeCodeCamp"
   ]
 }
